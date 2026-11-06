@@ -42,6 +42,10 @@ The plugin is installed in the KTextEditor plugin directory, normally
 Back up the existing `ktexteditorpreviewplugin.so` before installing if
 needed, then restart Kate.
 
+## AI assistance
+
+See [AI-USAGE.md](AI-USAGE.md).
+
 ## License
 
 This work is based on Kate's Document Preview plugin and is licensed under
