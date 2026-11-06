@@ -42,9 +42,13 @@ The plugin is installed in the KTextEditor plugin directory, normally
 Back up the existing `ktexteditorpreviewplugin.so` before installing if
 needed, then restart Kate.
 
-## AI assistance
+## AI usage disclosure
 
-See [AI-USAGE.md](AI-USAGE.md).
+AI tools (opencode, DeepSeek V4.1 Flash) were used to help write and modify
+code and documentation in this project. The changes were reviewed and tested
+before being published. AI tools are not authors or co-authors, and the result
+is distributed under the same license as the rest of the project. I'm leaving
+this here because I believe people have the right to know.
 
 ## License
 
